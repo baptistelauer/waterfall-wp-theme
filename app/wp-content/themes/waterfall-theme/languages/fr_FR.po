@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Waterfall Theme\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-03-17 22:30+0100\n"
-"PO-Revision-Date: 2012-03-17 22:30+0100\n"
+"POT-Creation-Date: 2012-03-18 12:43+0100\n"
+"PO-Revision-Date: 2012-03-18 12:43+0100\n"
 "Last-Translator: Johan Satgé <contact@johansatge.fr>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -13,4 +13,21 @@ msgstr ""
 "X-Poedit-Basepath: .\n"
 "X-Poedit-Language: fr_FR\n"
 "X-Poedit-SearchPath-0: ..\n"
+
+#: ../classes/waterfall_views_counter.php:26
+msgid "Views count"
+msgstr "Nombre de vues"
+
+#: ../classes/waterfall_views_counter.php:41
+msgid "No views"
+msgstr "Aucune vue"
+
+#: ../classes/waterfall_views_counter.php:43
+msgid "One view"
+msgstr "Une vue"
+
+#: ../classes/waterfall_views_counter.php:45
+#, php-format
+msgid "%s views"
+msgstr "%s vues"
 

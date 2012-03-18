@@ -21,7 +21,7 @@ class WaterfallMain
      */
     public function actionLoadTextDomain()
     {
-	load_theme_textdomain(WATERFALL_THEME , get_template_directory() . '/languages');
+	load_theme_textdomain(WATERFALL_THEME_DOMAIN , get_template_directory() . '/languages');
     }
     
     /**
